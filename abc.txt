@@ -1,0 +1,8 @@
+public class Abc{
+
+	public void main(String[] args){
+		for(String arg:args){
+			System.out.println('000000000000000000000000000');
+		}
+	}
+}
